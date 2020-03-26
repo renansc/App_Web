@@ -1,1 +1,4 @@
-em desenvolvimento porém funcional em linha de comando, debian linux
+adicionados comandos para o cs
+modificada comando no .bashrc
+adicionado arquivo do .bashrc
+
