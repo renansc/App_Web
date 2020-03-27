@@ -1,4 +1,7 @@
-adicionados comandos para o cs
-modificada comando no .bashrc
-adicionado arquivo do .bashrc
-inserção do comando sudo nos arquivos php python, correção para executar no ubuntu gnome desktop
+#ARQUIVO PHPWEBSERVER
+	executa servidor web usando php
+#ARQUIVO PYTHONWEBSERVER
+	executa servidor web usando python
+#ARQUIVO YOUTUBEDOWNLOADER
+	baixa video do youtube usando configurações pré definidas
+
