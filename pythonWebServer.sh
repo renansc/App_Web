@@ -7,4 +7,4 @@ echo "Endereço Atual é $ip"
 echo "Rodando na Raiz" && pwd
 #executa web service na pasta atual porta 8000
 echo "Iniciando WebService ..."
-echo `sudo python -m SimpleHTTPServer` & `firefox $ip:8000`
+echo `sudo python -m SimpleHTTPServer` & `firefox http://$ip:8000`
