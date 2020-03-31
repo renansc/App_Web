@@ -7,4 +7,4 @@ echo "Endereço Atual é $ip"
 echo "Rodando na Raiz" && pwd
 #executa web service na pasta atual porta 8000
 echo "Iniciando WebService ..."
-echo `sudo php -S $ip:8000` && `sleep 5` & `firefox http://localhost:8000`
+echo `sudo php -S $ip:8000` && `sleep 5`
