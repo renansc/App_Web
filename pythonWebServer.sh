@@ -7,4 +7,4 @@ echo "Endereço Atual é $ip"
 echo "Rodando na Raiz" && pwd
 #executa web service na pasta atual porta 8000
 echo "Iniciando WebService ..."
-echo `sudo python -m SimpleHTTPServer` &
+echo `sudo python -m SimpleHTTPServer` & `top -b-n1|grep python`
