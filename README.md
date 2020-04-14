@@ -6,8 +6,7 @@ ARQUIVOS
 * 'youtubeDownloader.sh', baixa video ou lista do youtube
 ---
 #TAREFAS
-- [ ] melhorar interface
-- [] index.html acrescenta código
+- [] melhorar interface - [] acrescentar código no `index.html`
 ---
 NECESSÁRIOS
 ---
