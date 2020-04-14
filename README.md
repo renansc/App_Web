@@ -7,7 +7,7 @@ ARQUIVOS
 ---
 #TAREFAS
 - [ ] melhorar interface
-- [ ] index.html
+- [] index.html acrescenta código
 ---
 NECESSÁRIOS
 ---
