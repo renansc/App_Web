@@ -1,7 +1,14 @@
-#ARQUIVO PHPWEBSERVER
-	executa servidor web usando php
-#ARQUIVO PYTHONWEBSERVER
-	executa servidor web usando python
-#ARQUIVO YOUTUBEDOWNLOADER
-	baixa video do youtube usando configurações pré definidas
-
+ARQUIVOS
+---
+* 'index.html',exibe mensagem na tela do navegador
+* 'phpWebServer.sh', roda web server com php
+* 'pythonWebServer.sh', roda web server com python
+* 'youtubeDownloader.sh', baixa video ou lista do youtube
+---
+#TAREFAS
+- [ ] melhorar interface
+- [] acrecentar código `index.html`
+---
+#NECESSÁRIO
+---
+* ter instalado `youtube-dl``python``php`
