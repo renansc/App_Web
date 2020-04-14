@@ -7,7 +7,8 @@ ARQUIVOS
 ---
 #TAREFAS
 - [ ] melhorar interface
--[ ] index.html
-#NECESSÁRIO
+- [ ] index.html
+---
+NECESSÁRIOS
 ---
 * ter instalado `youtube-dl``python``php`
