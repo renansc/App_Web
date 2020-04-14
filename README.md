@@ -5,9 +5,14 @@ ARQUIVOS
 * 'pythonWebServer.sh', roda web server com python
 * 'youtubeDownloader.sh', baixa video ou lista do youtube
 ---
-#TAREFAS
-- [] melhorar interface - [] acrescentar código no `index.html`
+TAREFAS
 ---
-NECESSÁRIOS
+* melhorias
+- [ ] index.html
+- [ ] interface
+#NECESSÁRIOS
 ---
-* ter instalado `youtube-dl``python``php`
+* ter instalado
+1 `youtube-dl`
+2) `python`
+3) `php`
