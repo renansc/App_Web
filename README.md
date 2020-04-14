@@ -13,6 +13,6 @@ TAREFAS
 #NECESSÁRIOS
 ---
 * ter instalado
-1 `youtube-dl`
+1) `youtube-dl`
 2) `python`
 3) `php`
